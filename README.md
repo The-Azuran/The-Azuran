@@ -1,13 +1,13 @@
-What up. My name is Rowan but people are retarded so they hear either Roland or Ronin like 75% of the time so I actually don't mind all three of those names, but the name my mother gave me is Rowan. 
-I'm currently earning a master's of environmental science and management from 
-the university of Rhode Island where I also studied sustainable agroculture and food system. 15 years ago, I also studied philosophy in undergraduate, and completed the actual program, but failed one math class so told my school to suck it and went to California to grow cannabis. Prior to that, I spent six of the most retarded years of my life as a US Army Infantryman with A co. 2/7 INF Reg 1st Bat 3ID with the First Army, which, despite introducing me to moral decay and killing off most of my favorite people in the world, was none the less a formative experience. I live that they may enjoy through me. 
-What the fuck am I doing on Github? Well, I like to code! Philosphy actually introduced me to it but I never got that great at programming because I don't got no patience for asking dorks for help, plus their fucking help sucks. Then I started fucking with LLMs in like 2016 or something, very early on, it was shit, you had to do it through google, it was a mess, but I liked it. 
-Then OpenAI came out, but I don't fuck with them at all because they tried to Hava Nagila me, but they got slapped with over six million palms in their face over a span of 3000 hours, because free speech wins everyburg singlestein timeowits. 
-Claude Code is fucking crazy, and I had not fucked with it until this week (Jan 11-17, 2026). 
-I had been working on a games since 2022 called "Preaching The Truth". I gave that shit to Claude Code and we worked it and now it's a production piece of software. 
-I'll work more code with claude - they are easier to talk to than a human coding teacher and they have more attention span, plus they can really grasp all the code at once which is really what you need when you want feed back about this shit. 
-I want to use coding and LLMs to decentralize the food system though, that is my actual goal. I grew up homeless and malnutritioned and I hate that outcome for children, thus, my real goal is to create an **agroecological revolution**! That is my true passion, I don't really give a fuck about video games it's just a good project to get into at first plus the gimmick is kinda funny. I want to create nervous systems for gardeners and land stewards/managers, make it easy for anyone to grasp ecosystems as intuitively as I can, which is actually an easy skill because we evolved to learn it without too much prompting. When you couple this with systems thinking, philosophical analysis, epistemic humility and methodological anarchism, your framework turns malleable and impossible feats can be accomplished. Anyway, I'm a shower and a grower (of forests), so, as the Honorable Louis Farrakhan once let Donuahue know, live on Television: SOON YOU SHALL SEE... (this was in reference to him allowing Whiteboys into the FOI, their paramilitary organization when asked by Donahue whether he would allow White people in. Which he didn't. Unless you count Scientology as White People. I guess this isn't a great reference...
-<!---
-The-Azuran/The-Azuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Rowan.
+I design agroforests. There are several different kinds of agroforests, and I specialize in Silvopastures, which are forest designed for grazing and browsing animals.
+My passion is to design ecosystems and I own land, and also advise others on how to steward their land to make it flourish for humans and other organisms.
+I want to desentralize the food system. I grew up homeless and in poverty, oftentimes malnutritioned and I wish to end that outcome for all humans.
+I recently formalized my consulting business as symbiont systems LLC.
+I'm concurrently in graduate school, earning a master's in evironmental science and management from the University of Rhode Island.
+I have an undergraduate science degree in Sustainable Agriculture from the same school.
+I have also studied philosophy academically very extensively. But I quit and went to trim cannabis for starvation wages and the promise of learning permaculture. It fucking sucked, but I learned a lot.
+I'm a veteran of the US Army Infantry.
+My unit was A co. 2/7 INF REG "RAGE" 1st Battalion 3ID - a heavily decorated and spearhead forming unit in the army. 
+I deployed to Iraq for 15 months from 2007-08 in AL-Ambar Province; first in the towns of Hit, Kubaysa, Ar Rutbah, and also just patroling the lonely desert for months at a time.
+I served as a grenadier but rarely used that thing. It was just heavy as fuck. But honestly, I'm happy I had that thing!
+Prior to that, I dropped out of a high school that had a 75% drop out rate so I wasn't alone! 
